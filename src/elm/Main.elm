@@ -32,7 +32,7 @@ init =
 
 view : Model -> Html Msg
 view model =
-    span [ class "welcome" ] [ text "Hello World!" ]
+    span [ class "welcome" ] [ text "Hello World!?" ]
 
 
 
